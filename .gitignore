@@ -13,6 +13,7 @@ settings/Max_Volume_Limit
 settings/Playlists_Folders_Path
 settings/rfid_trigger_play.conf
 settings/Second_Swipe
+settings/Swipe_or_Place
 settings/ShowCover
 settings/version
 settings/Change_Volume_Idle
@@ -32,6 +33,10 @@ htdocs/config.php
 scripts/deviceName.txt
 scripts/gpio-buttons.py
 settings/PhonieboxInstall.conf
+playlists
+settings/Audio_iFace_Active
+settings/CHAPTEREXTENSIONS
+settings/CHAPTERMINDURATION
 
 shared/*
 playlists/*
